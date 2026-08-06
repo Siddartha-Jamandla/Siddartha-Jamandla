@@ -495,7 +495,7 @@ That's why my focus isn't just on writing code—it's on building useful, practi
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddarthajamandla-sketch&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddartha-Jamandla&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
