@@ -318,6 +318,46 @@ Reliable Bus Travels is a responsive web application that allows users to explor
 
 ---
 
+# 🪔 Blow Crackers — Interactive Diwali Fireworks
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+
+![Interactive](https://img.shields.io/badge/Interactive-Fireworks-orange?style=for-the-badge)
+
+</div>
+
+## 📌 Overview
+
+Blow Crackers is an interactive Diwali night sky where you pick a cracker and light it yourself in your browser — no download, no install. 100 crackers across Sky/Aerial, Ground, Sound/Bombs, Novelty and Power/Loudest, with realistic physics, real cracker sounds, 5 themes, and a Sky Writing cracker that writes "Happy Diwali" then your name in spark letters. Smooth even on a 2GB phone.
+
+### ✨ Key Features
+
+- 🎆 100 crackers — rockets, flower pots, chakras, bombs, sparklers, Power crackers like Thunder King
+- ✍️ Sky Writing Text Cracker — up to 40 characters, "Happy Diwali" first, then your text
+- 🎨 5 themes — Classic Night Sky, Golden Diwali, Royal Purple, Green/Eco Diwali, Colourful Festival
+- 🔊 Realistic cracker sounds — whistle, boom, sizzle, crackle, garland pops
+- 📱 Smooth on small phones — auto-scales for 2GB devices, Grand Finale never hangs
+- 🎇 Grand Finale and Burst 10 at once
+
+### 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Canvas + WebAudio
+
+### 🌐 Live Demo
+
+https://siddartha-jamandla.github.io/Blow-Crackers/
+
+### 💻 Code
+
+https://github.com/Siddartha-Jamandla/Blow-Crackers
+
+---
+
 # 🚀 Future Projects
 
 These are projects I plan to build as I continue my AI journey.
