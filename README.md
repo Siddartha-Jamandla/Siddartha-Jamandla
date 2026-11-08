@@ -212,6 +212,7 @@ Modern e-commerce experience — curated products, smart filtering, easy navigat
 #### [📚 LearnHub — LMS Website](https://github.com/Siddartha-Jamandla/LearnHub-LMS-Website)
 
 Online learning platform with expert-led courses in web development, programming, design, marketing, AI, and business — wishlist and cart, secure checkout and personalised, career-focused learning. Now full-stack with Python + SQLite.
+🌐 Live: [learnhubapp.pythonanywhere.com](https://learnhubapp.pythonanywhere.com/)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/LearnHub-LMS-Website?style=flat-square)
