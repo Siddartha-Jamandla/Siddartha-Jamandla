@@ -1,986 +1,240 @@
-# Siddartha-Jamandla
-🚀 My GitHub profile README showcasing my skills, projects, and journey in AI &amp; Machine Learning.
 <!-- ========================================================= -->
-<!--                                                           -->
-<!--        GitHub Profile README - Siddartha Jamandla         -->
-<!--               AI | ML Engineer | B.Tech AIML              -->
+<!--  GitHub Profile README — Siddartha Jamandla               -->
+<!--  Professional version, updated 8 Nov 2026                 -->
+<!--  Dark HUD / terminal style. All facts verified live:      -->
+<!--  username Siddartha-Jamandla, 6 public repos, resume-only -->
+<!--  skills, only repos that exist on GitHub.                  -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Siddartha%20Jamandla&fontColor=FFFFFF&fontSize=52&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Building%20the%20Future%20with%20Code&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,50:1E1B4B,100:0EA5E9&text=Siddartha%20Jamandla&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Web%20Development&descAlignY=60&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=Building+intelligent+systems,+modern+web+apps,+and+real-world+software.;AI+%26+ML+Student+%C2%B7+Web+Developer+%C2%B7+Learning+by+building.;Python+%7C+JavaScript+%7C+SQL+%7C+HTML+%2F+CSS+%7C+DSA+%7C+OOP+%7C+Git" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddartha-jamandla-97350b384)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://siddartha-jamandla.github.io/MY-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddartha-Jamandla)
+[![Open to Internships](https://img.shields.io/badge/Open%20to-Paid%20Remote%20Internships-22C55E?style=for-the-badge)](https://github.com/Siddartha-Jamandla)
+
+<img src="https://komarev.com/ghpvc/?username=Siddartha-Jamandla&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Siddartha-Jamandla?style=for-the-badge" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Siddartha-Jamandla?style=for-the-badge" alt="GitHub stars" />
 
 </div>
+
+<!-- ===================== TERMINAL WINDOW ===================== -->
 
 <div align="center">
 
-# 👋 Hello, I'm Siddartha Jamandla
-
-### 🤖 AI & Machine Learning Engineer | B.Tech AIML Student | Future AI Entrepreneur
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&color=00C6FF&lines=Welcome+to+my+GitHub!;Building+AI+Products+for+Real+World+Problems.;Python+%7C+FastAPI+%7C+React+%7C+PyTorch.;Always+Learning.+Always+Building.;Dream+Big.+Build+Bigger."/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=siddarthajamandla-sketch&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/github/followers/siddarthajamandla-sketch?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/siddarthajamandla-sketch?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge)
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm **Siddartha Jamandla**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **Balaji Institute of Technology and Science, Narsampet**.
-
-I enjoy building intelligent applications that solve real-world problems using AI, Machine Learning, and modern web technologies. Every project I create is an opportunity to improve my technical skills, explore new ideas, and contribute to meaningful innovation.
-
-I'm continuously learning, experimenting, and working toward becoming a professional AI Engineer who develops impactful products used by people around the world.
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🚀 Generative AI
-- 🧩 AI Agents
-- 🌐 Full-Stack Development
-- ⚡ Automation
-- 📊 Data Science
-
----
-
-# 🎓 Education
-
-### Bachelor of Technology (B.Tech)
-
-**Artificial Intelligence & Machine Learning**
-
-🏫 Balaji Institute of Technology and Science
-
-📍 Narsampet, Telangana, India
-
-🎓 Expected Graduation: **2029**
-
----
-
-# 🚀 Mission
-
-> Build intelligent software that simplifies people's lives through Artificial Intelligence while continuously learning and growing as an engineer.
-
----
-
-# 🌍 Vision
-
-To become an AI Engineer capable of building innovative products that positively impact millions of people around the world.
-
----
-
-# 💡 Personal Philosophy
-
-> **"Discipline builds skill. Skill creates opportunities. Opportunities shape the future."**
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
-</p>
-
----
-
-## 🌐 Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" />
-
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
-</p>
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=supabase" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
----
-
-## ☁️ Deployment & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vercel" />
-
-<img src="https://skillicons.dev/icons?i=netlify" />
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-</p>
-
----
-
-## 🛠️ Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Agents
-- LangChain
-- PyTorch
-- FastAPI
-- Model Deployment
-- GitHub Actions
-
----
-
-# 🌱 What Makes Me Different?
-
-✔ Passionate about solving real-world problems.
-
-✔ Learn by building practical projects.
-
-✔ Continuously improving my AI & development skills.
-
-✔ Curious about emerging technologies.
-
-✔ Focused on creating scalable and useful applications.
-
----
-
-# ⚡ Fun Fact
-
-> **I don't just write code—I build ideas into reality through Artificial Intelligence.**
-
----
-
-<div align="center">
-
-## 🚀 "The future belongs to those who build it."
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 💼 Building Real-World Solutions with AI & Modern Web Technologies
-
-*"Every project is an opportunity to learn, innovate, and create impact."*
-
-</div>
-
----
-
-# 🤖 Career Plus – AI Resume Analyzer
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-
-![AI Powered](https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge)
-
-![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
-
-</div>
-
-## 📌 Overview
-
-Career Plus is an AI-powered Resume Analyzer designed to help students and professionals evaluate and improve their resumes. The platform analyzes uploaded resumes, highlights strengths, identifies missing skills, and provides actionable suggestions to improve ATS compatibility.
-
-### ✨ Key Features
-
-- 📄 Resume Upload & Analysis
-- 🤖 AI-Powered Feedback
-- 📊 ATS Score Evaluation
-- 🎯 Skill Gap Detection
-- 📈 Resume Quality Insights
-- 💡 Personalized Improvement Suggestions
-- ⚡ Fast & Responsive Interface
-
-### 🛠 Technologies Used
-
-- Python
-- FastAPI
-- React
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-
-### 🌐 Live Demo
-
-https://ai-resume-analyzer-5529.ai.studio
-
----
-
-# 🚌 Reliable Bus Travels
-
-<div align="center">
-
-![Frontend](https://img.shields.io/badge/Frontend-Project-success?style=for-the-badge)
-
-![Responsive](https://img.shields.io/badge/Responsive-Website-blue?style=for-the-badge)
-
-</div>
-
-## 📌 Overview
-
-Reliable Bus Travels is a responsive web application that allows users to explore bus routes, check schedules, view available seats, and simulate the ticket booking experience with a clean and user-friendly interface.
-
-### ✨ Features
-
-- Home Page
-- Route Search
-- Bus Information
-- Seat Selection UI
-- Booking Simulation
-- Responsive Layout
-- Modern User Interface
-
-### 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-# 🪔 Blow Crackers — Interactive Diwali Fireworks
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-
-![Interactive](https://img.shields.io/badge/Interactive-Fireworks-orange?style=for-the-badge)
-
-</div>
-
-## 📌 Overview
-
-Blow Crackers is an interactive Diwali night sky where you pick a cracker and light it yourself in your browser — no download, no install. 100 crackers across Sky/Aerial, Ground, Sound/Bombs, Novelty and Power/Loudest, with realistic physics, real cracker sounds, 5 themes, and a Sky Writing cracker that writes "Happy Diwali" then your name in spark letters. Smooth even on a 2GB phone.
-
-### ✨ Key Features
-
-- 🎆 100 crackers — rockets, flower pots, chakras, bombs, sparklers, Power crackers like Thunder King
-- ✍️ Sky Writing Text Cracker — up to 40 characters, "Happy Diwali" first, then your text
-- 🎨 5 themes — Classic Night Sky, Golden Diwali, Royal Purple, Green/Eco Diwali, Colourful Festival
-- 🔊 Realistic cracker sounds — whistle, boom, sizzle, crackle, garland pops
-- 📱 Smooth on small phones — auto-scales for 2GB devices, Grand Finale never hangs
-- 🎇 Grand Finale and Burst 10 at once
-
-### 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Canvas + WebAudio
-
-### 🌐 Live Demo
-
-https://siddartha-jamandla.github.io/Blow-Crackers/
-
-### 💻 Code
-
-https://github.com/Siddartha-Jamandla/Blow-Crackers
-
----
-
-# 🚀 Future Projects
-
-These are projects I plan to build as I continue my AI journey.
-
-### 🧠 AI Study Teacher
-
-An AI-powered educational platform capable of generating:
-
-- Animated explanation videos
-- Interactive lessons
-- Flowcharts
-- Diagrams
-- MCQs
-- Personalized study plans
-
----
-
-### 🎙 AI Video Dubbing Platform
-
-An AI system capable of translating videos into multiple languages while preserving the speaker's original voice, tone, and emotions.
-
----
-
-### 🤖 AI Agent Platform
-
-A collection of intelligent AI Agents that automate repetitive tasks for students, developers, and businesses.
-
----
-
-# 📜 Certification
-
-## Web Designing & Development
-
-🏆 **CADD Centre, Warangal**
-
-Skills Covered:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- UI Fundamentals
-- Website Structure
-- Modern Development Practices
-
----
-
-# 📖 Learning Journey
-
-My learning philosophy is simple:
-
-> **Learn → Build → Improve → Repeat**
-
-I enjoy learning by building real-world projects rather than only studying theory.
-
----
-
-# 🌱 Currently Learning
-
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- Prompt Engineering
-- AI Agents
-
----
-
-## Development
-
-- FastAPI
-- React
-- Modern JavaScript
-- API Development
-- Docker
-- GitHub Actions
-
----
-
-# 🎯 2029 Career Vision
-
-By the time I graduate, I aim to:
-
-- ✅ Build 20+ quality AI projects
-- ✅ Master Python for AI
-- ✅ Become proficient in Machine Learning
-- ✅ Gain practical experience through internships
-- ✅ Contribute to Open Source
-- ✅ Build production-ready AI applications
-- ✅ Launch my own AI startup
-
----
-
-# 💡 What Drives Me
-
-I believe technology becomes meaningful when it solves real-world problems.
-
-That's why my focus isn't just on writing code—it's on building useful, practical, and intelligent solutions that can make a positive difference.
-
----
-
-# 🚀 Professional Values
-
-- Innovation
-- Consistency
-- Discipline
-- Continuous Learning
-- Teamwork
-- Problem Solving
-- Creativity
-- Curiosity
-
----
-
-# 📈 Current Focus Areas
-
-🎯 Artificial Intelligence
-
-🎯 Machine Learning
-
-🎯 Generative AI
-
-🎯 Full-Stack Development
-
-🎯 Automation
-
-🎯 AI Agents
-
-🎯 Open Source
-
----
-
-# 💬 Quote I Live By
-
-> **"Success is built through consistency, not shortcuts. Every project is another step toward excellence."**
-
----
-
-<div align="center">
-
-## 🚀 "Build Today. Improve Tomorrow. Inspire Forever."
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-## 💻 GitHub Statistics
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=siddarthajamandla-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthajamandla-sketch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌍 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthajamandla-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddartha-Jamandla&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddarthajamandla-sketch&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🚀 Development Workflow
+### `siddartha-jamandla / README.md`
 
 ```text
-💡 Idea
-   │
-   ▼
-📚 Research
-   │
-   ▼
-📝 Planning
-   │
-   ▼
-💻 Development
-   │
-   ▼
-🧪 Testing
-   │
-   ▼
-🚀 Deployment
-   │
-   ▼
-📈 Continuous Improvement
+$ whoami
+→ siddartha-jamandla — AI & ML student who learns by building
+
+$ cat focus.txt
+→ AI & ML · Responsive web apps · DSA & OOP · Real projects, not just tutorials
+
+$ cat mission.txt
+→ Build intelligent, practical software that solves real problems.
 ```
 
----
+</div>
 
-# 🧠 AI Engineer Mindset
+<table>
+<tr>
+<td width="32%" valign="top" align="center">
 
-```text
-✔ Learn Every Day
+<br>
 
-✔ Build Every Week
+<img src="https://avatars.githubusercontent.com/u/237517026?v=4" width="170" alt="Siddartha Jamandla" />
 
-✔ Stay Curious
+### Siddartha Jamandla
 
-✔ Write Clean Code
+**AI & ML Student · Web Developer**
 
-✔ Never Stop Improving
+📍 Narsampet, Warangal, Telangana, India
 
-✔ Share Knowledge
+🎓 B.Tech, AI & ML — 2nd Year
+<br>Balaji Institute of Technology and Science
 
-✔ Solve Real Problems
+🎓 Diploma in Computer Engineering — 80%
+<br>Warangal Institute of Technology and Science
 
-✔ Think Long-Term
-```
+🏆 Web Designing & Development
+<br>CADD Centre, Hanumakonda
 
----
+</td>
+<td width="68%" valign="top">
 
-# 🗺️ Career Roadmap
+#### 🖥️ SYSTEM.INFO
 
-## 🌱 Phase 1 — Foundation
+| Field | Value |
+| :--- | :--- |
+| **Subject** | `siddartha-jamandla` |
+| **Role** | AI & ML Student · Web Developer |
+| **Origin** | Narsampet, Warangal, Telangana, India |
+| **Education** | B.Tech, AI & ML — Balaji Institute of Technology and Science |
+| **Previous** | Diploma in Computer Engineering — 80% |
+| **Certification** | Web Designing & Development — CADD Centre, Hanumakonda |
+| **Status** | Building · Learning · Open to paid remote internships |
+| **ToolChain** | VS Code · Git · GitHub |
+| **Core.Lang** | Python · C · C++ · Java · JavaScript · SQL |
+| **Core.Front** | HTML5 · CSS3 · Responsive Web Design |
+| **Core.Concepts** | Data Structures & Algorithms · OOP |
+| **Contact** | [LinkedIn](https://www.linkedin.com/in/siddartha-jamandla-97350b384) · [Portfolio](https://siddartha-jamandla.github.io/MY-Portfolio/) · [GitHub](https://github.com/Siddartha-Jamandla) |
 
-- Master Python
-- Improve Data Structures & Algorithms
-- Build Strong GitHub Portfolio
-- Learn Software Engineering Fundamentals
+<br>
 
----
+> **About:** I build intelligent, practical software — AI tools and clean, responsive web apps that solve real problems. I learn by building, and every project here is something I actually shipped.
 
-## 🚀 Phase 2 — AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Model Evaluation
-
----
-
-## 🤖 Phase 3 — Generative AI
-
-- Prompt Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- LangChain
-- Vector Databases
+</td>
+</tr>
+</table>
 
 ---
 
-## ☁️ Phase 4 — Production AI
-
-- Docker
-- CI/CD
-- Cloud Deployment
-- FastAPI
-- Model Serving
-- MLOps
-
----
-
-## 🎯 Final Goal
-
-Become a professional AI/ML Engineer capable of designing, developing, and deploying intelligent systems that create real-world impact.
-
----
-
-# 💼 Professional Strengths
-
-### Problem Solving
-
-I enjoy breaking down complex problems into smaller, manageable solutions.
-
----
-
-### Continuous Learning
-
-Technology evolves every day, and I believe learning should never stop.
-
----
-
-### Building Projects
-
-The best way to learn is by building real applications.
-
----
-
-### Adaptability
-
-I'm always ready to explore new tools, frameworks, and technologies.
-
----
-
-# 💡 Current Interests
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🚀 Generative AI
-
-🌐 Full-Stack Development
-
-⚡ Automation
-
-☁️ Cloud Computing
-
-📱 Software Engineering
-
----
-
-# 📚 Books & Resources
-
-Currently exploring topics from:
-
-- Clean Code
-- Deep Learning with Python
-- Hands-On Machine Learning
-- FastAPI Documentation
-- PyTorch Documentation
-- Hugging Face Documentation
-- OpenAI API Documentation
-
----
-
-# 🎯 Open Source Goals
-
-- Make meaningful contributions to open-source projects.
-- Learn from experienced developers.
-- Share useful tools with the community.
-- Build projects that others can learn from.
-
----
-
-# 🤝 Looking to Collaborate On
-
-- AI Applications
-- Machine Learning Projects
-- FastAPI Backends
-- React Frontends
-- Open Source Projects
-- Educational Technology
-
----
-
-# 💭 My Development Philosophy
-
-> **"Great software is built through patience, discipline, continuous learning, and attention to detail."**
-
----
-
-# 🌟 Daily Routine
-
-```text
-📚 Learn
-
-☕ Think
-
-💻 Build
-
-🧪 Experiment
-
-📖 Read
-
-🚀 Improve
-
-🔁 Repeat
-```
-
----
-
-# 📬 Contact Me
-
-📧 **Email**
-
-**siddarthajamandla@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/siddartha-jamandla-97350b384
-
-📷 **Instagram**
-
-@ya.its_me_21
-
-🐙 **GitHub**
-
-https://github.com/siddarthajamandla-sketch
-
----
+### 📊 GitHub Stats — live from GitHub
 
 <div align="center">
 
-## ⭐ "The best way to predict the future is to build it."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddartha-Jamandla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7" alt="Siddartha's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddartha-Jamandla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddartha-Jamandla&theme=tokyo-night&hide_border=true&bg_color=0B1026&color=00E5FF&line=A855F7&point=F472B6" alt="Contribution graph" />
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+### 🛠️ Tech Stack — skills from my resume
 
 <div align="center">
 
-## 💬 I'm Always Open to Meaningful Conversations
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Whether you want to discuss AI, collaborate on a project, or simply connect with a fellow developer, feel free to reach out!
-
-<p align="center">
-
-<a href="mailto:siddarthajamandla@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/siddartha-jamandla-97350b384">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/siddarthajamandla-sketch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ya.its_me_21">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+**DSA · OOP · Responsive Design · UI/UX Structure · Wireframing**
 
 </div>
 
 ---
 
-# 🚀 Open To
+### 🚀 Featured Projects
 
-- 🤖 AI / Machine Learning Projects
-- 🌐 Full-Stack Development
-- 🚀 Open Source Contributions
-- 💼 Internship Opportunities
-- 💡 Startup Collaborations
-- 🎤 Technical Communities
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+[![CareerPlus+](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=CAREERPLUS-THE-AI-RESUME-ANALYZER&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/CAREERPLUS-THE-AI-RESUME-ANALYZER)
 
-# 📌 My 2029 Vision
+CareerPlus+ uses AI to scan, score, and optimise a CV against industry standards and ATS algorithms — surfacing missing skills, keyword mismatches and structural improvements.
 
-```text
-Graduate as a Skilled AI Engineer
-              │
-              ▼
-Gain Industry Experience
-              │
-              ▼
-Build AI Products Used by Thousands
-              │
-              ▼
-Contribute to Open Source
-              │
-              ▼
-Launch an AI Startup
-              │
-              ▼
-Build Technology That Creates Real Impact
-```
+</td>
+<td width="50%" valign="top">
 
----
+[![ShopEase](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=ShopEase-ECommerce&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/ShopEase-ECommerce)
 
-# 🧩 Developer Principles
+Modern e-commerce experience — curated products, smart filtering, easy navigation and a seamless checkout. Now full-stack with Python + SQLite.
 
-✔ Keep Learning
+🌐 Live: [siddarthashopease.pythonanywhere.com](https://siddarthashopease.pythonanywhere.com/)
 
-✔ Build Consistently
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✔ Focus on Quality
+[![LearnHub](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=LearnHub-LMS-Website&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/LearnHub-LMS-Website)
 
-✔ Stay Curious
+Online learning platform with expert-led courses in web development, programming, design, marketing, AI, and business — wishlist and cart, secure checkout and personalised, career-focused learning. Now full-stack with Python + SQLite.
 
-✔ Help Others
+</td>
+<td width="50%" valign="top">
 
-✔ Never Give Up
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=MY-Portfolio&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/MY-Portfolio)
 
-✔ Think Before You Code
+My personal portfolio — AI & ML projects, skills and journey, built as a clean, developer-focused site.
 
-✔ Write Maintainable Software
+🌐 Live: [siddartha-jamandla.github.io/MY-Portfolio](https://siddartha-jamandla.github.io/MY-Portfolio/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 🌟 Favorite Quote
+[![Blow Crackers](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=Blow-Crackers&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/Blow-Crackers)
 
-> **"Don't compare yourself with others. Compare yourself with the person you were yesterday."**
+Blow 100 Diwali crackers yourself in the browser — interactive fireworks with realistic sounds, 5 themes, Sky Writing, smooth on 2GB phones.
 
----
+🌐 Live: [siddartha-jamandla.github.io/Blow-Crackers](https://siddartha-jamandla.github.io/Blow-Crackers/)
 
-# 💭 AI Engineer's Mindset
+</td>
+<td width="50%" valign="top">
 
-> **Every bug teaches something.**
+#### 🤝 Open to collaborate
 
-> **Every project builds experience.**
+- AI / Machine Learning projects
+- Full-stack web development
+- Open source contributions
+- Paid remote internships
 
-> **Every challenge develops confidence.**
-
-> **Every day is another opportunity to improve.**
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Current Focus
+### 🎯 Currently Focused On
 
-```text
-Artificial Intelligence
-        ████████████████
-
-Machine Learning
-        ████████████████
-
-FastAPI
-        ████████████
-
-React
-        ███████████
-
-Python
-        ████████████████
-
-Problem Solving
-        ████████████████
-```
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Responsive web development
+- 🧩 Data Structures & Algorithms, OOP
+- 🚀 Building real-world projects — and landing a paid, remote internship
 
 ---
 
-# 🌍 Beyond Coding
+### 🎓 Education
 
-Outside programming, I enjoy:
-
-- 📚 Learning emerging technologies
-- 🎥 Watching AI and technology content
-- 🧠 Exploring innovative startup ideas
-- 🤝 Collaborating with like-minded developers
-- 🚀 Turning ideas into real-world products
+- **B.Tech, AI & ML — 2nd Year**, Balaji Institute of Technology and Science, Narsampet, Warangal, Telangana
+- **Diploma in Computer Engineering — 80%**, Warangal Institute of Technology and Science
+- **SSC — 78%**, ZPHS Itikalapally, Narsampet
+- **Certification:** Web Designing and Development, CADD Centre, Hanumakonda
 
 ---
 
-# 💙 Thank You
+### 📬 Connect with me
 
-Thank you for visiting my GitHub profile.
-
-Every repository represents a step in my learning journey, and I'm excited to continue growing as an AI & Machine Learning Engineer.
-
-If you like my work:
-
-⭐ Star my repositories
-
-🍴 Fork projects
-
-🤝 Connect with me
-
-💬 Share feedback
+- 📧 **Email:** siddarthajamandla@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/siddartha-jamandla-97350b384](https://www.linkedin.com/in/siddartha-jamandla-97350b384)
+- 🌐 **Portfolio:** [siddartha-jamandla.github.io/MY-Portfolio](https://siddartha-jamandla.github.io/MY-Portfolio/)
+- 🐙 **GitHub:** [github.com/Siddartha-Jamandla](https://github.com/Siddartha-Jamandla)
 
 ---
 
 <div align="center">
 
-## 💙 "Learn Continuously. Build Fearlessly. Create Impact."
+> **“Discipline builds skill. Skill creates opportunities. Opportunities shape the future.”**
 
-</div>
+<br>
 
----
-
-# 📊 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=siddarthajamandla-sketch&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> **Enable this after creating your profile repository using GitHub Actions.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/siddarthajamandla-sketch/siddarthajamandla-sketch/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-<div align="center">
-
-## ⚡ Thanks for Stopping By!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&color=00C6FF&lines=Thank+You+for+Visiting!;Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!+🚀"/>
+*The future belongs to those who build it.*
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1E1B4B,100:0EA5E9&height=120&section=footer" />
 
 </div>
-
-<!-- ========================================================= -->
-<!--                 END OF GITHUB PROFILE README              -->
-<!-- ========================================================= -->
