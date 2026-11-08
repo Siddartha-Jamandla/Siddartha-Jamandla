@@ -1,6 +1,10 @@
 <!-- ========================================================= -->
 <!--  GitHub Profile README — Siddartha Jamandla               -->
 <!--  ULTIMATE version, updated 8 Nov 2026                     -->
+<!--  Fix 8 Nov 2026 ~17:30 IST: github-readme-stats (503),   -->
+<!--  activity-graph (402) and trophies (402) were blank on    -->
+<!--  the live profile — replaced with shields.io badges and  -->
+<!--  hand-built project cards. All images re-checked 200.    -->
 <!--  Dark HUD / terminal style. All facts verified live:      -->
 <!--  username Siddartha-Jamandla, 6 public repos, resume-only -->
 <!--  skills. Projects listed are only repos that exist on     -->
@@ -181,47 +185,62 @@ Data Structures
 <tr>
 <td width="50%" valign="top">
 
-[![CareerPlus+](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=CAREERPLUS-THE-AI-RESUME-ANALYZER&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/CAREERPLUS-THE-AI-RESUME-ANALYZER)
+#### [🤖 CareerPlus+ — AI Resume Analyzer](https://github.com/Siddartha-Jamandla/CAREERPLUS-THE-AI-RESUME-ANALYZER)
 
 CareerPlus+ uses AI to scan, score, and optimise a CV against industry standards and ATS algorithms — surfacing missing skills, keyword mismatches and structural improvements.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/CAREERPLUS-THE-AI-RESUME-ANALYZER?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-[![ShopEase](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=ShopEase-ECommerce&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/ShopEase-ECommerce)
+#### [🛒 ShopEase — E-Commerce](https://github.com/Siddartha-Jamandla/ShopEase-ECommerce)
 
 Modern e-commerce experience — curated products, smart filtering, easy navigation and a seamless checkout. Now full-stack with Python + SQLite.
 
 🌐 Live: [siddarthashopease.pythonanywhere.com](https://siddarthashopease.pythonanywhere.com/)
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/ShopEase-ECommerce?style=flat-square)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-[![LearnHub](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=LearnHub-LMS-Website&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/LearnHub-LMS-Website)
+#### [📚 LearnHub — LMS Website](https://github.com/Siddartha-Jamandla/LearnHub-LMS-Website)
 
 Online learning platform with expert-led courses in web development, programming, design, marketing, AI, and business — wishlist and cart, secure checkout and personalised, career-focused learning. Now full-stack with Python + SQLite.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/LearnHub-LMS-Website?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=MY-Portfolio&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/MY-Portfolio)
+#### [🌐 MY-Portfolio](https://github.com/Siddartha-Jamandla/MY-Portfolio)
 
 My personal portfolio — AI & ML projects, skills and journey, built as a clean, developer-focused site.
 
 🌐 Live: [siddartha-jamandla.github.io/MY-Portfolio](https://siddartha-jamandla.github.io/MY-Portfolio/)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/MY-Portfolio?style=flat-square)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-[![Blow Crackers](https://github-readme-stats.vercel.app/api/pin/?username=Siddartha-Jamandla&repo=Blow-Crackers&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7)](https://github.com/Siddartha-Jamandla/Blow-Crackers)
+#### [🪔 Blow Crackers](https://github.com/Siddartha-Jamandla/Blow-Crackers)
 
 Blow 100 Diwali crackers yourself in the browser — interactive fireworks with realistic sounds, 5 themes, Sky Writing, smooth on 2GB phones.
 
 🌐 Live: [siddartha-jamandla.github.io/Blow-Crackers](https://siddartha-jamandla.github.io/Blow-Crackers/)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla/Blow-Crackers?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -285,22 +304,29 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddartha-Jamandla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9&icon_color=A855F7" alt="Siddartha's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddartha-Jamandla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1026&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
+![Public repos](https://img.shields.io/badge/Public%20repos-6-00E5FF?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Siddartha-Jamandla?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Siddartha-Jamandla?style=for-the-badge)
+![On GitHub since](https://img.shields.io/badge/On%20GitHub%20since-Oct%202025-A855F7?style=for-the-badge)
+
+<br><br>
+
+**Top languages in my repos:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddartha-Jamandla&theme=tokyonight&hide_border=true&background=0B1026&ring=00E5FF&fire=F472B6&currStreakLabel=00E5FF" alt="GitHub streak stats" />
 
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddartha-Jamandla&theme=tokyo-night&hide_border=true&bg_color=0B1026&color=00E5FF&line=A855F7&point=F472B6" alt="Contribution graph" />
-
-<br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Siddartha-Jamandla&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-
 </div>
+
+#### 🏆 Highlights
+
+- 🌐 **3 live sites** — ShopEase, MY-Portfolio, Blow-Crackers
+- 🤖 **4 AI projects built** — CareerPlus+, Testing Agent, Job Automation Agent, Jarvis
+- 🎓 **Diploma in Computer Engineering — 80%**, B.Tech AI & ML in progress
+- 🚀 **ShopEase & LearnHub** being upgraded daily to full-stack Python + SQLite
+
+*Your contribution graph shows natively on your GitHub profile page, below this README.*
 
 ---
 
@@ -310,7 +336,7 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <img src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake — generated daily by GitHub Actions" />
 
-*Generated daily by GitHub Actions — it appears after the first workflow run.*
+*Generated daily by GitHub Actions.*
 
 </div>
 
