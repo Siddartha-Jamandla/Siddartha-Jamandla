@@ -413,6 +413,10 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <br>
 
+**[▶ Interactive profile page](https://github.com/Siddartha-Jamandla/Siddartha-Jamandla/blob/main/interactive-profile.html)** — my portrait as particles, morphing live into SIDDARTHA, `</>` and AI·ML. Download `interactive-profile.html` from this repo and open it in any browser to run it.
+
+<br>
+
 *The future belongs to those who build it.*
 
 </div>
