@@ -1,10 +1,15 @@
 <!-- ========================================================= -->
 <!--  GitHub Profile README — Siddartha Jamandla               -->
-<!--  ULTIMATE version, updated 8 Nov 2026                     -->
+<!--  ULTIMATE version, updated 9 Nov 2026                     -->
 <!--  Fix 8 Nov 2026 ~17:30 IST: github-readme-stats (503),   -->
 <!--  activity-graph (402) and trophies (402) were blank on    -->
 <!--  the live profile — replaced with shields.io badges and  -->
 <!--  hand-built project cards. All images re-checked 200.    -->
+<!--  9 Nov 2026: VISUAL.MAP added, like the Arif Hasan reel  -->
+<!--  (instagram.com/reel/DbSQZG0vsqn) — an animated SVG       -->
+<!--  particle portrait made from Siddartha's real avatar.     -->
+<!--  GitHub strips <script>, so the animation is SMIL in the  -->
+<!--  SVG itself (visual-map.svg). No invented skills/links.   -->
 <!--  Dark HUD / terminal style. All facts verified live:      -->
 <!--  username Siddartha-Jamandla, 6 public repos, resume-only -->
 <!--  skills. Projects listed are only repos that exist on     -->
@@ -50,6 +55,20 @@ $ cat mission.txt
 → Build intelligent, practical software that solves real problems.
 → Learn → Build → Improve → Repeat
 ```
+
+</div>
+
+---
+
+### ✨ VISUAL.MAP — my portrait, in particles
+
+<div align="center">
+
+<img src="./visual-map.svg" width="420" alt="Particle portrait of Siddartha Jamandla — dots fade in, like the Arif Hasan reel" />
+
+<br>
+
+*Like the reel — my photo, rebuilt dot by dot. GitHub can't run JavaScript, so the animation lives in the SVG itself.*
 
 </div>
 
@@ -212,6 +231,7 @@ Modern e-commerce experience — curated products, smart filtering, easy navigat
 #### [📚 LearnHub — LMS Website](https://github.com/Siddartha-Jamandla/LearnHub-LMS-Website)
 
 Online learning platform with expert-led courses in web development, programming, design, marketing, AI, and business — wishlist and cart, secure checkout and personalised, career-focused learning. Now full-stack with Python + SQLite.
+
 🌐 Live: [learnhubapp.pythonanywhere.com](https://learnhubapp.pythonanywhere.com/)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
