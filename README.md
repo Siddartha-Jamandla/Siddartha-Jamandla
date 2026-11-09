@@ -70,6 +70,8 @@ $ cat mission.txt
 
 *Like the reel — my photo, rebuilt dot by dot. GitHub can't run JavaScript, so the animation lives in the SVG itself.*
 
+**[▶ Open the full interactive version →](https://muse.ai/s/siddartha-jamandla-github-profile-xnxv6xi57y2xhxb1/yhVoBCzr6hMN_IkKmahv1sIx3hSmBrkqqb_ilL-4au8)** — the portrait morphs live into SIDDARTHA, `</>`, an orbit ring and AI·ML, just like the video.
+
 </div>
 
 <table>
