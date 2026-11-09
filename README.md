@@ -24,6 +24,14 @@
 
 </div>
 
+---
+
+### 🏆 GitHub Achievements
+
+- ⚡ Quickdraw — Issue closed within 5 minutes ✅ unlocked
+- 🎯 YOLO — Pull request merged with no review ✅ unlocked
+- 🦈 Pull Shark — 16 merged pull requests in the github_badges repo, bronze threshold met, badge awaiting GitHub processing ⏳
+- Link: https://github.com/Siddartha-Jamandla/github_badges
 <!-- GITHUB STATS -->
 <div align="center">
 
