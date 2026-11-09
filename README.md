@@ -297,6 +297,18 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 ---
 
+### 🎮 Sky Striker — fighter-plane shooting game
+
+<div align="center">
+
+**[▶ Play Sky Striker →](https://siddartha-jamandla.github.io/Siddartha-Jamandla/siddartha-jamandla-github-profile.html)**
+
+Fly a fighter plane and shoot down enemy planes — move with mouse, touch, arrow keys or WASD; shoot with Space, click or tap-and-hold. Armoured enemies take 3 hits. Score, lives and waves that get faster as you play.
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics — live from GitHub
 
 <div align="center">
