@@ -15,6 +15,14 @@
 
 <div align="center">
 
+### ▶ [View my live interactive profile →](https://siddartha-jamandla.github.io/Siddartha-Jamandla/siddartha-jamandla-github-profile.html)
+
+*My portrait in particles, all my projects and skills, and the Sky Striker game — live on GitHub Pages.*
+
+</div>
+
+<div align="center">
+
 # Siddartha Jamandla
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=1000&color=00E5FF&lines=AI+%26+ML+Student+%E2%80%94+learning+by+building+real+software.;Building+intelligent+systems,+modern+web+apps,+and+AI+agents.;Python+%7C+JavaScript+%7C+SQL+%7C+HTML+%2F+CSS+%7C+DSA+%7C+OOP+%7C+Git;Open+to+paid+remote+internships+%E2%80%94+let%27s+build+something+real." />
