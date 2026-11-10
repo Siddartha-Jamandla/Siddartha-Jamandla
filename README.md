@@ -1,15 +1,18 @@
 <!-- ========================================================= -->
 <!--  GitHub Profile README — Siddartha Jamandla               -->
-<!--  FULL version, 9 Nov 2026 — one file, everything in it.   -->
-<!--  Style of the Arif Hasan reel (instagram.com/reel/        -->
-<!--  DbSQZG0vsqn, @arifhaxn / arifhaxn) — layout only;        -->
-<!--  Arif's name, photo, projects and stats were NOT copied.  -->
-<!--  Visual is Siddartha's REAL photo (his GitHub avatar),    -->
-<!--  not the dot portrait. All facts verified live 9 Nov:     -->
-<!--  8 public repos, 3 stars, 0 followers, 4 live sites.     -->
-<!--  Stats use the working widget hosts (checked 9 Nov 2026): -->
-<!--  github-readme-stats-sigma-rosy-28.vercel.app (the main    -->
-<!--  vercel.app instance is 503) and streak-stats.demolab.com. -->
+<!--  WHOLE version, 10 Nov 2026 — the full profile, exactly   -->
+<!--  like the Arif Hasan reel (instagram.com/reel/DbSQZG0vsqn, -->
+<!--  @arifhaxn / arifhaxn) — layout only; Arif's name, photo,  -->
+<!--  projects and stats were NOT copied. Everything here is    -->
+<!--  Siddartha's own verified data, and NOTHING was cut: the    -->
+<!--  hero is the Arif-style VISUAL.MAP particle portrait +     -->
+<!--  SYSTEM.INFO (hero-dark.svg / hero-light.svg, from his     -->
+<!--  real GitHub avatar), followed by ALL his sections —       -->
+<!--  focus, tech stack, projects, currently building,          -->
+<!--  analytics, snake, achievements, journey, education,      -->
+<!--  open to, connect. Stats use the working widget hosts     -->
+<!--  (github-readme-stats-sigma-rosy-28.vercel.app and         -->
+<!--  streak-stats.demolab.com, checked 9 Nov 2026).            -->
 <!--  No invented skills, projects or links — resume-only.     -->
 <!-- ========================================================= -->
 
@@ -23,9 +26,13 @@
 
 <div align="center">
 
-# Siddartha Jamandla
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=1000&color=00E5FF&lines=AI+%26+ML+Student+%E2%80%94+learning+by+building+real+software.;Building+intelligent+systems,+modern+web+apps,+and+AI+agents.;Python+%7C+JavaScript+%7C+SQL+%7C+HTML+%2F+CSS+%7C+DSA+%7C+OOP+%7C+Git;Open+to+paid+remote+internships+%E2%80%94+let%27s+build+something+real." />
+<!-- ===== THEME-AWARE HERO BANNER — exactly like the reel ===== -->
+<!-- GitHub shows hero-dark.svg in dark mode, hero-light.svg in light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/main/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/main/hero-light.svg">
+  <img alt="Siddartha Jamandla" src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/main/hero-light.svg">
+</picture>
 
 <br>
 
@@ -36,61 +43,6 @@
 [![AI & ML Student](https://img.shields.io/badge/AI%20%26%20ML-B.Tech%20Student-A855F7?style=for-the-badge)](https://github.com/Siddartha-Jamandla)
 
 </div>
-
-<table>
-<tr>
-<td width="32%" valign="top" align="center">
-
-<br>
-
-<img src="https://avatars.githubusercontent.com/u/237517026?v=4" width="280" alt="Siddartha Jamandla — real photo" />
-
-### Siddartha Jamandla
-
-**AI & ML Student · Web Developer**
-
-📍 Narsampet, Warangal, Telangana, India
-
-🎓 B.Tech, AI & ML — 2nd Year
-<br>Balaji Institute of Technology and Science
-
-🎓 Diploma in Computer Engineering — 80%
-<br>Warangal Institute of Technology and Science
-
-🏆 Web Designing & Development
-<br>CADD Centre, Hanumakonda
-
-💬 English · Telugu · Hindi
-
-</td>
-<td width="68%" valign="top">
-
-#### 🖥️ SYSTEM.INFO
-
-| Field | Value |
-| :--- | :--- |
-| **Subject** | `siddartha-jamandla` |
-| **Role** | AI & ML Student · Web Developer |
-| **Origin** | Narsampet, Warangal, Telangana, India |
-| **Education** | B.Tech, AI & ML — Balaji Institute of Technology and Science |
-| **Previous** | Diploma in Computer Engineering — 80% |
-| **Certification** | Web Designing & Development — CADD Centre, Hanumakonda |
-| **Status** | Building · Learning · Open to paid remote internships |
-| **ToolChain** | VS Code · Git · GitHub |
-| **Core.Lang** | Python · C · C++ · Java · JavaScript · SQL |
-| **Core.Frontend** | HTML5 · CSS3 · Responsive Web Design |
-| **Core.Backend** | Python (stdlib) · REST APIs |
-| **Core.Database** | SQLite |
-| **Core.Infra** | PythonAnywhere · GitHub Pages · GitHub Actions |
-| **Contact** | [LinkedIn](https://www.linkedin.com/in/siddartha-jamandla-97350b384) · [Portfolio](https://siddartha-jamandla.github.io/MY-Portfolio/) · [GitHub](https://github.com/Siddartha-Jamandla) |
-
-<br>
-
-> **About:** I build intelligent, practical software — AI tools, AI agents, and clean, responsive web apps that solve real problems. I learn by building, and every project here is something I actually shipped.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -260,6 +212,10 @@ Clean LearnHub rebuild — C + DSA flagships, no C++ course. Brand: LearnHub, on
 </tr>
 </table>
 
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/main/projects.svg" alt="Projects" />
+</div>
+
 ---
 
 ### 🔨 Currently building — built, repo coming soon
@@ -330,7 +286,11 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake — generated daily by GitHub Actions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake.svg" alt="Contribution snake — generated daily by GitHub Actions" />
+</picture>
 
 **181 contributions in the last year · 14 active days · busiest day: 69 contributions on 9 Nov 2026** *(snapshot, 10 Nov 2026)*
 
@@ -424,6 +384,24 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 <br>
 
 **[▶ Interactive profile page](https://siddartha-jamandla.github.io/Siddartha-Jamandla/siddartha-jamandla-github-profile.html)** — my portrait as particles, morphing live into SIDDARTHA, `</>` and AI·ML, plus all my projects, skills and my real GitHub contribution graph.
+
+<br>
+
+<a href="https://www.linkedin.com/in/siddartha-jamandla-97350b384/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A101F" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/siddu_edits_hub/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://siddartha-jamandla.github.io/MY-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:siddarthajamandla@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
 
 <br>
 
