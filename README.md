@@ -332,6 +332,8 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <img src="https://raw.githubusercontent.com/Siddartha-Jamandla/Siddartha-Jamandla/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake — generated daily by GitHub Actions" />
 
+**181 contributions in the last year · 14 active days · busiest day: 69 contributions on 9 Nov 2026** *(snapshot, 10 Nov 2026)*
+
 *Generated daily by GitHub Actions.*
 
 </div>
@@ -421,7 +423,7 @@ Voice assistant with wake-word mode, YouTube voice control, weather / news / Wik
 
 <br>
 
-**[▶ Interactive profile page](https://github.com/Siddartha-Jamandla/Siddartha-Jamandla/blob/main/siddartha-jamandla-github-profile.html)** — my portrait as particles, morphing live into SIDDARTHA, `</>` and AI·ML, plus all my projects, skills and a fighter-plane shooting game. Download `siddartha-jamandla-github-profile.html` from this repo and open it in any browser to run it.
+**[▶ Interactive profile page](https://siddartha-jamandla.github.io/Siddartha-Jamandla/siddartha-jamandla-github-profile.html)** — my portrait as particles, morphing live into SIDDARTHA, `</>` and AI·ML, plus all my projects, skills and my real GitHub contribution graph.
 
 <br>
 
